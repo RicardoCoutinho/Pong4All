@@ -1,5 +1,5 @@
 # SDIS
-The following project was developed for the Computer Graphics Lab class of SDIS in the Faculty of Engineering and University of Porto(FEUP).
+The following project was developed for the Distributed Systems class of SDIS in the Faculty of Engineering and University of Porto(FEUP).
 
 The project's purpose is to develop a distributed system application with a P2P and/or client&server format.
 
