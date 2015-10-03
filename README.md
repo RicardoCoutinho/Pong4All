@@ -3,6 +3,8 @@ The following project was developed for the Distributed Systems class of SDIS in
 
 The project's purpose is to develop a distributed system application with a P2P and/or client&server format.
 
+Basically, it's a 3D pong game for 2 to 4 players made in Unity3D with C# with a game tracker server made in Java.
+
 ## Collaborators
 [Ângelo Lopes][1], [Duarte Morais][2], [Leonel Peixoto][3] and Ricardo Coutinho.
 
